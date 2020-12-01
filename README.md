@@ -6,7 +6,7 @@ that is commonly used for training various image processing systems.
 
 ---
 
-![image](image\screencapture-127-0-0-1-5500-template-index-html-2020-12-01-17_51_44.png)
+![image](image/screencapture-127-0-0-1-5500-template-index-html-2020-12-01-17_51_44.png)
 
 ---
 
